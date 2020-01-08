@@ -1,4 +1,4 @@
-public class EinsteinAI_JWT {
+ {
     
     public String alg {get;set;}
     public String iss {get;set;}
